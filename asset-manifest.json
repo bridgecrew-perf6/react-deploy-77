@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/olygood.github.io/react-deploy/static/css/main.988fedf8.css",
-    "main.js": "/olygood.github.io/react-deploy/static/js/main.e47e2c32.js",
-    "static/js/787.d6cb1aba.chunk.js": "/olygood.github.io/react-deploy/static/js/787.d6cb1aba.chunk.js",
-    "index.html": "/olygood.github.io/react-deploy/index.html",
-    "main.988fedf8.css.map": "/olygood.github.io/react-deploy/static/css/main.988fedf8.css.map",
-    "main.e47e2c32.js.map": "/olygood.github.io/react-deploy/static/js/main.e47e2c32.js.map",
-    "787.d6cb1aba.chunk.js.map": "/olygood.github.io/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
+    "main.css": "/react-deploy/static/css/main.bd7912eb.css",
+    "main.js": "/react-deploy/static/js/main.33c4ec8c.js",
+    "static/js/787.d6cb1aba.chunk.js": "/react-deploy/static/js/787.d6cb1aba.chunk.js",
+    "static/media/software.jpg": "/react-deploy/static/media/software.649541c8b0939c634d28.jpg",
+    "index.html": "/react-deploy/index.html",
+    "main.bd7912eb.css.map": "/react-deploy/static/css/main.bd7912eb.css.map",
+    "main.33c4ec8c.js.map": "/react-deploy/static/js/main.33c4ec8c.js.map",
+    "787.d6cb1aba.chunk.js.map": "/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.988fedf8.css",
-    "static/js/main.e47e2c32.js"
+    "static/css/main.bd7912eb.css",
+    "static/js/main.33c4ec8c.js"
   ]
 }
