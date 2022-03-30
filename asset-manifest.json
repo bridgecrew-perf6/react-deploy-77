@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/olygood.github.io/react-deploy/static/css/main.988fedf8.css",
+    "main.js": "/olygood.github.io/react-deploy/static/js/main.e47e2c32.js",
+    "static/js/787.d6cb1aba.chunk.js": "/olygood.github.io/react-deploy/static/js/787.d6cb1aba.chunk.js",
+    "index.html": "/olygood.github.io/react-deploy/index.html",
+    "main.988fedf8.css.map": "/olygood.github.io/react-deploy/static/css/main.988fedf8.css.map",
+    "main.e47e2c32.js.map": "/olygood.github.io/react-deploy/static/js/main.e47e2c32.js.map",
+    "787.d6cb1aba.chunk.js.map": "/olygood.github.io/react-deploy/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988fedf8.css",
+    "static/js/main.e47e2c32.js"
+  ]
+}
